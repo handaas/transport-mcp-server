@@ -46,7 +46,7 @@ git clone https://github.com/handaas/transport-mcp-server.git
 cd transport-mcp-server
 ```
 
-也可以从 Gitee 克隆私有镜像；执行前需要获得仓库访问授权：
+Gitee（公开镜像）：
 
 ```bash
 git clone https://gitee.com/handaas/transport-mcp-server.git
